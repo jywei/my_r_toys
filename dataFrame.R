@@ -1,0 +1,6 @@
+age <- c(19, 24, 20, 25, 20)
+name <- c("Ryo", "William", "Amy", "Terry", "Lisa")
+gender <- c("M", "M", "F", "M", "F")
+country <- c("Taiwan", "America", "Japan", "Japan", "Taiwan")
+people <- data.frame(age, name, gender, country)
+View(people)
